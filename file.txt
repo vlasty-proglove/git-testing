@@ -3,3 +3,5 @@ this file containts initial text
 this file containts second commit
 
 somethings are better
+
+this file is somewhat changed
